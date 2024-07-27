@@ -22,8 +22,12 @@ Check the output files and logs in the specified directory.
 
 To install the necessary Python packages, run:
 
-```pip install pandas```
+```
+pip install pandas
+```
 
 ### <center><p align = "left">`Example Usage`</p> </center>
 
-```python csv_excel_combiner.py```
+```
+python csv_excel_combiner.py
+```
