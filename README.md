@@ -4,8 +4,9 @@ This repository contains a collection of Python scripts for various data process
 <hr>
 
 ### <center><p align = "left">`How to Use`</p> </center>
-Navigate to the directory of the desired script and follow the instructions in the README file. Each script has its own set of dependencies and usage instructions.
+Navigate to the directory of the desired script or click the link below and follow the instructions in the README file. Each script has its own set of dependencies and usage instructions.
 
+- [Project Project Credit Card Customer Segmentation](https://github.com/datalex42/Dataquest/blob/3b533a7eed8d06f2260bfc3a91260e5944f36ab2/13_Project_Credit_Card_Customer_Segmentation.ipynb)
 <hr>
 
 ### <center><p align = "left">`Built With`</p> </center>
