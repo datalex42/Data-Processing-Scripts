@@ -6,8 +6,9 @@ This repository contains a collection of Python scripts for various data process
 ### <center><p align = "left">`How to Use`</p> </center>
 Navigate to the directory of the desired script or click the link below and follow the instructions in the README file. Each script has its own set of dependencies and usage instructions.
 
-- [database_csv_loader.py](database_csv_loader)
-- [csv_excel_combiner.py](csv_excel_combiner)
+[database_csv_loader.py](database_csv_loader)
+[csv_excel_combiner.py](csv_excel_combiner)
+
 <hr>
 
 ### <center><p align = "left">`Built With`</p> </center>
