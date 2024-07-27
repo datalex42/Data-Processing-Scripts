@@ -8,10 +8,10 @@ Navigate to the directory of the desired script and follow the instructions in t
 
 <hr>
 
-### <center><p align = "left">🛠️ `Built With`</p> </center>
+### <center><p align = "left">`Built With`</p> </center>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <hr>
 
-### <center><p align = "left">🛠️ `License`</p> </center> 
+### <center><p align = "left">`License`</p> </center> 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
