@@ -64,3 +64,5 @@ pip install pandas pymssql
 ```
 python database_csv_loader.py
 ```
+
+<p align="right">(<a href="#top">⬆️ back to top</a>)</p>
