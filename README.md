@@ -18,3 +18,5 @@ Navigate to the directory of the desired script or click the link below and foll
 
 ### <center><p align = "left">`License`</p> </center> 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<p align="right">(<a href="#top">⬆️ back to top</a>)</p>
