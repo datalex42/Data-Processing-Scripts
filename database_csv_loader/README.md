@@ -38,12 +38,7 @@ server = r'Server'
 user = r'User'
 database = 'Db'
 ```
-2. Data Path:
-Modify the data_path to specify the directory containing your data files.
-```
-data_path = input('Insert Datapath: ')
-```
-3. Batch Size:
+2. Batch Size:
 Adjust the batch size for loading data into the database.
 ```
 batches = [data[i:i+999] for i in range(0, len(data), 999)]
