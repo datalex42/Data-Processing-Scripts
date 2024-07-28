@@ -4,7 +4,7 @@ import pandas as pd
 import logging
 import warnings
 
-warnings.simplefilter(action='ignore', category=FutureWarning) # Line 30, ignore FutureWarning
+warnings.simplefilter(action='ignore', category=FutureWarning) #ignore FutureWarning
 
    
 def combine():
