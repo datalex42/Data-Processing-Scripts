@@ -24,21 +24,14 @@ python database_csv_loader.py
 ```
 3. Follow the prompts:
 ```
-Enter the database password when prompted.
+Enter the informations when prompted.
 Enter the path to the directory containing the data files.
 ```
 
 <hr>
 
 ### <center><p align = "left">`Customizable Sections`</p> </center>
-1. Server and User Credentials:
-Adjust the server, user, and database variables as needed.
-```
-server = r'Server'
-user = r'User'
-database = 'Db'
-```
-2. Batch Size:
+1. Batch Size:
 Adjust the batch size for loading data into the database.
 ```
 batches = [data[i:i+999] for i in range(0, len(data), 999)]
