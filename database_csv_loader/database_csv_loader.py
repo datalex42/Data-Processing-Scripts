@@ -10,9 +10,9 @@ logging.basicConfig(filename='database_loader.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 def connect_to_db():
-    server = r'Server'
-    user = r'User'
-    database = 'Db'
+    server = input('Insert the server information: ')
+    user = input('Insert the user credentials: ')
+    database = input('Insert the database information: ')
     password = getpass()
 
     try:
