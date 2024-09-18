@@ -24,8 +24,8 @@ python database_csv_loader.py
 ```
 3. Follow the prompts:
 ```
-Enter the informations when prompted.
-Enter the path to the directory containing the data files.
+Enter the security informations when prompted.
+Choose tablename and enter the path to the directory containing the data files.
 ```
 
 <hr>
