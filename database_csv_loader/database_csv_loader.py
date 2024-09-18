@@ -26,8 +26,8 @@ def connect_to_db():
         return None
 
 def process_data():
-    data_path = input('Insert Datapath: ')
-    tablename = 'tablename'
+    data_path = input('Insert datapath: ')
+    tablename = input('Insert name of new table: ')
 
     print('Files are being checked...')
     logging.info('Files are being checked...')
