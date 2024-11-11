@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-grey?logo=python&style=plastic)
+
 ### <center><p align = "left">`Introduction`</p> </center>
 This repository contains a collection of Python scripts for various data processing tasks, including CSV and Excel file combination, data cleaning, and more. Each script is organized in its own folder with detailed instructions for usage.
 
@@ -8,11 +10,6 @@ Navigate to the directory of the desired script or click the link below and foll
 
 - [database_csv_loader.py](database_csv_loader)
 - [csv_excel_combiner.py](csv_excel_combiner)
-
-<hr>
-
-### <center><p align = "left">`Built With`</p> </center>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <hr>
 
